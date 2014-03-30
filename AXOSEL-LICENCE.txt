@@ -1,0 +1,12 @@
+AXDT OPEN-SOURCE ESSENTIAL LICENCE
+VERSION 0.1b
+DATE 2014.04.02
+
+
+English Edition
+1.We have already opened the source,so every kind of decomplieation is forbidden.
+2.You have permission to modify , release and republish.But you should put down the copyright of AXDT.
+
+中文版
+1.我们已经开放源代码，所以禁止一切形式的反向工程
+2.您有权利修改、再次发布以及转发，但是必须写明AXDT的版权
